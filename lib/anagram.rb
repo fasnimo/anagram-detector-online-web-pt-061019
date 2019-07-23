@@ -5,8 +5,10 @@ class Anagram
   def initialize(word)
     @word = word
   end 
-  def anagram(str)
-    str.match {|words| words == str}
-    %w(())
+  
+  def match(w_array)
+    w_array.select do |word|
+      word.split("").sort == @word.split("").sort
+    end
   end 
 end 
