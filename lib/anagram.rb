@@ -2,6 +2,6 @@
 class Anagram
   attr_accessor :
   def anagram(str)
-    str.match %w
+    str.match %w(str)
   end 
 end 
