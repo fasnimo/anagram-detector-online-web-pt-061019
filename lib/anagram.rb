@@ -1,7 +1,7 @@
 # Your code goes here!
-class 
-  attr_accessor :
-  def  
+# class 
+#   attr_accessor :
+#   def  
     
-  end 
-end 
+#   end 
+# end 
