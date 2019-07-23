@@ -1,7 +1,7 @@
 # Your code goes here!
-# class Anagram
-#   attr_accessor :
-#   def anagram
+class Anagram
+  attr_accessor :
+  def anagram
     
-#   end 
-# end 
+  end 
+end 
