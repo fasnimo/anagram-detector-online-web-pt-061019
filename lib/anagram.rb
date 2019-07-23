@@ -1,7 +1,7 @@
 # Your code goes here!
 class Anagram
   attr_accessor :
-  def anagram
+  def anagram(srt)
     
   end 
 end 
